@@ -45,7 +45,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - [x] Criando a estrutura do big card
 - [x] Concentrando o seu big card
 - [x] Desenhando Small-card
-- [] Criando o componente do menu
+- [x] Criando o componente do menu
 - [] Commitando seu projeto e editando ele online
 - [] Agregando múltiplos css para um components
 - [] Desacoplando os componentes da parte visual
