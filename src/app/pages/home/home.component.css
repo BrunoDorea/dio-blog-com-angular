@@ -1,10 +1,7 @@
 header {
-    border: 1px solid red;
-
     margin-top: 15px;
     display: flex;
     justify-content: flex-end;
-
 }
 
 .container__articles {
@@ -17,5 +14,3 @@ header {
 .articles__main {
     margin-right: 5%;
 }
-
-.articles__others {}
