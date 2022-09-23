@@ -10,14 +10,14 @@
 </p>
 
 <p align="center">
-  LINK DO WAKATIME
+  <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/83946594-ad8e-48bb-adaf-5ebbc7418ac4"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/83946594-ad8e-48bb-adaf-5ebbc7418ac4.svg" alt="wakatime"></a>
 </p>
-
-![Preview](./assets/preview.jpg)
 
 ## 💻 Projeto
 
 Repositório do projeto "Criando um Blog com Angular" da DIO.
+
+
 
 ## 🚀 Tecnologias
 
@@ -46,9 +46,10 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - [x] Concentrando o seu big card
 - [x] Desenhando Small-card
 - [x] Criando o componente do menu
-- [] Commitando seu projeto e editando ele online
-- [] Agregando múltiplos css para um components
-- [] Desacoplando os componentes da parte visual
-- [] Criando outras páginas
-- [] Pegando os dados dinamicamente
-- [] Deixando a content page dinamica
+- [x] Commitando seu projeto e editando ele online
+- [x] Agregando múltiplos css para um components
+- [x] Desacoplando os componentes da parte visual
+- [x] Criando outras páginas
+- [x] Pegando os dados dinamicamente
+- [x] Deixando a content page dinamica
+- [x] Salvando no Git
