@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="#">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://dio-blog-com-angular.vercel.app/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">📝 License</a>
@@ -23,11 +23,25 @@ Repositório do projeto "Criando um Blog com Angular" da DIO.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
+- Angular
+
+Ferramentas Utilizadas
+
+- Dribbble: Site com inspiração de ideias para o projeto
+- Just Color Picker
 
 ## 📝 License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
+
+## Informações do conteúdo
+
+- [x] Preparando seu ambiente de produção e versionamento no Github
+- [x] Enxergando os componentes em um Layout
+- [x] Criando a base de componentes
+- [] Menu Title
+- [] Criando a estrutura do big card
+- [] Concentrando o seu big card
+- [] 
